@@ -9,9 +9,9 @@ This project is intended for the retake of the project Software in Saxion for AC
 | Normal increment/decrement                                 | ✗         |
 | Long press increment/decrement                             | ✗         |
 | Buzzer/LED for reaching counter limit or 000/999 to stop overflow | ✗         |
-| Be able to switch between 3 different counters             | ✗         |
+| Be able to switch between 3 different counters             | (✓)only app rn         |
 | Connect it to an API to maintain the list of counters in the cloud | ✓         |
-| App to help see the counter values and change the limit/counter | ✗         |
+| App to help see the counter values and change the limit/counter | ✓        |
 | Local display to make a local GUI                          | ✗         |
 
 
