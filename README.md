@@ -6,7 +6,7 @@ This project is intended for the retake of the project Software in Saxion for AC
 ## Features goal list:
 | Goal                                                       | Implemented |
 |------------------------------------------------------------|-------------|
-| Normal increment/decrement                                 | ✗         |
+| Normal increment/decrement                                 | ✓         |
 | Long press increment/decrement                             | ✗         |
 | Buzzer/LED for reaching counter limit or 000/999 to stop overflow | ✗         |
 | Be able to switch between 3 different counters             | (✓)only app rn         |
