@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallyCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5a3cd9bc86c8f824f9bc6dd2506cf94ca7d23c5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4b1a7490bc6511bfaeac22c23a7bf37324e6e094")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallyCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallyCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

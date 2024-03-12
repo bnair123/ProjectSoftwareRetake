@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"TallyCounterUno.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"TallyCounterUno.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

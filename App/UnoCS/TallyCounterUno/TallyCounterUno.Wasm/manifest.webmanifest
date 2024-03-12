@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "TallyCounterUno",
+  "display": "standalone",
+  "name": "TallyCounterUno",
+  "short_name": "TallyCounterUno",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

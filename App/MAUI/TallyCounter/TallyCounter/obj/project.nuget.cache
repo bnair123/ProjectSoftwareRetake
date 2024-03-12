@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nV1V8XkCZquBZ75++pVR7kDV7O7tO2QxxX3DeC8EX1gaRIejt4i2Nxpw6cuWp4Bmku22wvz307lxE+mqbqiToQ==",
+  "dgSpecHash": "brfVIHvUnTkU12RHkcW/ZEmGZxScRhtRw6JMMuj1DD+Trr80A4e0zx6tjJII3fJpT3SZ8SltYn6ruqdIN+Shdw==",
   "success": true,
   "projectFilePath": "/Users/bnair/Documents/PJSoftware retake/ProjectSoftwareRetake/App/MAUI/TallyCounter/TallyCounter/TallyCounter.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "/Users/bnair/.nuget/packages/microsoft.maui.essentials/8.0.3/microsoft.maui.essentials.8.0.3.nupkg.sha512",
     "/Users/bnair/.nuget/packages/microsoft.maui.graphics/8.0.3/microsoft.maui.graphics.8.0.3.nupkg.sha512",
     "/Users/bnair/.nuget/packages/microsoft.maui.resizetizer/8.0.3/microsoft.maui.resizetizer.8.0.3.nupkg.sha512",
-    "/Users/bnair/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "/Users/bnair/.nuget/packages/microsoft.net.illink.tasks/8.0.1/microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
     "/Users/bnair/.nuget/packages/xamarin.android.glide/4.15.1.2/xamarin.android.glide.4.15.1.2.nupkg.sha512",
     "/Users/bnair/.nuget/packages/xamarin.android.glide.annotations/4.15.1.2/xamarin.android.glide.annotations.4.15.1.2.nupkg.sha512",
     "/Users/bnair/.nuget/packages/xamarin.android.glide.disklrucache/4.15.1.2/xamarin.android.glide.disklrucache.4.15.1.2.nupkg.sha512",

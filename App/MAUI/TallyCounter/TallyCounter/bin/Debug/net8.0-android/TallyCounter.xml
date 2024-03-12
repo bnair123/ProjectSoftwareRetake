@@ -4,5 +4,76 @@
         <name>TallyCounter</name>
     </assembly>
     <members>
+        <member name="M:TallyCounter.MainPage.InitializeLiveModeTimer">
+            <summary>
+            Initializes the timer for live mode, which polls for updates to the current counter every 2 seconds.
+            </summary>
+        </member>
+        <member name="M:TallyCounter.MainPage.LoadCounter(System.Int32)">
+            <summary>
+            Loads a counter by its ID, updating the current counter and UI accordingly. Calls the apiHandler.cs (called apiService inside tho
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.UpdateUI">
+            <summary>
+            Updates UI with the values
+            </summary>
+        </member>
+        <member name="M:TallyCounter.MainPage.Increment_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Increments counter by 1 when button is pressed. WILL OVERRIDE CURRENT VALUES FULLY, MAYBE UPDATE BEFORE SUBMITTING?
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.Decrement_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Same as Increment with same issue. Again calls apiService
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.ChangeLimit_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            Reads teh given value for limit and passes it with the current value and updates counter. Still same bug
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.OnCounterChanged(System.Object,Microsoft.Maui.Controls.CheckedChangedEventArgs)">
+            <summary>
+            Function to change between the 3 different counters
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.IncrementByTen_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            The same as the other increments/decrement except its by 10
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.DecrementByTen_Clicked(System.Object,System.EventArgs)">
+            <summary>
+            still the same
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.AdjustCounterValue(System.Int32)">
+            <summary>
+            Takes the current counter value and then adds however much was added to it
+            </summary>
+            <param name="adjustment"></param>
+        </member>
+        <member name="M:TallyCounter.MainPage.LiveModeSwitch_Toggled(System.Object,Microsoft.Maui.Controls.ToggledEventArgs)">
+            <summary>
+            Enables the live mode which refreshes the value every certain amount of time (can be adjusted when init the live counter
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
     </members>
 </doc>
